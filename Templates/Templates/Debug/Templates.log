@@ -1,0 +1,7 @@
+﻿  Templates.cpp
+F:\vs_projects\Templates\Templates\Templates.cpp(57,13): warning C4244: 'initialisation' : conversion de 'U' en 'float', perte possible de données
+          with
+          [
+              U=double
+          ]
+  Templates.vcxproj -> F:\vs_projects\Templates\Debug\Templates.exe
